@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piotr-code-tech
-- 🤖 I’m interested in automation and robotics
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning TypeScript![image](https://github.com/Piotr-code-tech/Piotr-code-tech/assets/84838279/db9a24bc-3273-4cde-a9c1-174c7f99618a)
+, React, and Next.js
 - 📫 How to reach me : piotrkowalski056@gmail.com
 
 <!---
